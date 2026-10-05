@@ -21,8 +21,8 @@ Define what an NLP Pipeline is, how to use the Hugging Face Pipeline API, and ex
 
 | Topic |  About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides) | Intro to Hugging Face pipelines |
-| [encoder-sentiment-pipeline](./02-encoder-sentiment-pipeline) | Encoder Sentiment Analysis: construct pipeline for sentiment analysis using encoder models and compare performance across models |
+| [Full Lesson Deck](https://github.com/ga-curriculum/nlp-llms-pipelines/blob/main/01-slides/NLP-LLMs%202%20NLP%20Pipelines.pdf){:target="_blank"} | Intro to Hugging Face pipelines |
+| [encoder-sentiment-pipeline](https://github.com/ga-curriculum/nlp-llms-pipelines/tree/main/02-encoder-sentiment-pipeline){:target="_blank"} | Encoder Sentiment Analysis: construct pipeline for sentiment analysis using encoder models and compare performance across models |
 
 
 ## Prerequisites
